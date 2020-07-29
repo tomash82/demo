@@ -4,7 +4,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" },
     { "id": "Zml4bmV3", "firstName" : "30.02.2020" },
-    { "id" : "Zml4bmV3NA==", "firstName" : "30.02.2020"}
+    { "id" : "Zml4bmV3NA==", "firstName" : "30.02.2020", "lastName":"lastname","account":"account-id"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
